@@ -63,9 +63,22 @@ header a {
 	font-weight: 300;
 	text-align: justify;
 	line-height: 1.62em;
+	background: rgba(255, 182, 193, 0.5);
+	border:5px solid black;
+	width: 78vw;
+	margin: 10px;
+	padding: 10px;
+	border-radius: 10px 20px 30px 40px;
 }
 .ff {
 	font-family: 'Open Sans';
 	font-weight: 300;
 	text-align: justify;
 	line-height: 1.62em;
+	background: rgba(255, 182, 193, 0.5);
+	border:5px solid black;
+	width: 78vw;
+	margin: 10px;
+	padding: 10px;
+	border-radius: 10px 20px 30px 40px;
+
